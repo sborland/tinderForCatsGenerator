@@ -2,7 +2,7 @@
 Tinder For Cats is a Tracery grammar implementation of everyone's favorite hook up app, Tinder but with cats.
 
 ###Images
-<img src="screenshot/cat1.JPG" alt="Drawing" style="width: 20%;"/> 
+<img src="screenshots/cat1.JPG" alt="Drawing" style="width: 20%;"/> 
 <img src="screenshots/cat2.JPG" alt="Drawing" style="width: 20%;"/>
 
 ###How Run The Generator
